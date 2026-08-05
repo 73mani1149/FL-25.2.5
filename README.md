@@ -18,7 +18,7 @@
 ---
 
 
-<img width="783" height="391" alt="images3" src="https://github.com/user-attachments/assets/e8132da4-389d-430c-ab25-a101d0f0b451" />
+<img width="183" height="183" alt="images3" src="https://github.com/user-attachments/assets/e8132da4-389d-430c-ab25-a101d0f0b451" />
 
 
 
